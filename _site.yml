@@ -2,7 +2,7 @@ name: "distill-practice"
 title: "My Blog"
 description: |
   My Blog
-output_dir: "_site"
+output_dir: "_docs"
 navbar:
   right:
     - text: "Home"
